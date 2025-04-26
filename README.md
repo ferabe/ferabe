@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Data Scientist en devenir passionné de statistiques, d'analyse de données et de machine learning.  
+Recherche, rigueur et curiosité me guident chaque jour.
 <!--
 **ferabe/ferabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
