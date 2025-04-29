@@ -8,8 +8,7 @@ Issu du monde académique et sportif, j’ai une solide expérience en **analyse
 
 ## 💼 Mon projet
 
-Concevoir des solutions data utiles et concrètes en entreprise, avec un focus sur l’**analyse de la performance**, le **e-commerce**, et l’**optimisation de contenus**.  
-Je travaille sur des projets mêlant **modélisation**, **API (FastAPI / Streamlit)**, **MLOps (MLflow)** et **visualisation**.
+Concevoir des solutions data utiles et concrètes en entreprise, avec un focus sur l’**analyse de la performance**, le **e-commerce**, et l’**optimisation de contenus** et **visualisation**.
 
 ---
 
