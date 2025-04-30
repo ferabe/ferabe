@@ -25,7 +25,7 @@ En cours d'amélioration
 ## 📫 Me contacter
 
 - 📧 ferhatbelaid80@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ferhat-belaid)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ferhat-belaid-a19aaa362/)  
 - 📄 [ResearchGate](https://www.researchgate.net/profile/Ferhat-Belaid)
 
 <!--
